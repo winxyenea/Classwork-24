@@ -1,0 +1,136 @@
+body{
+    background-color: #B1D0FC;
+}
+
+.box-1{
+   color: white;
+   font: bold;
+   padding-left: 50px;
+   width: 40%;
+  border-radius: 10px;
+  position: absolute;
+
+}
+.theh1{
+color:white;
+}
+p{
+    color:rgb(224, 208, 208); 
+}
+img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.second{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.quote{
+    height: 180px;
+}
+.email{
+   height: 50px;
+   border: solid #3C8CF7;
+   width: 200px;
+   border-radius: 5px;
+   background-color:#353D79 ;
+}
+.emaill{
+    margin-top: 15px;
+    padding-left: 4px;
+}
+.phone{
+    height: 50px;
+}
+.place{
+    height: 50px;
+}
+.images{
+    padding-left: 5px;
+}
+.facebook{
+    padding-left: 20px;
+    width: 25px;
+    height: 25px;
+    padding-top: 5px;
+}
+.twitter{
+    padding-left: 70px;
+    width: 35px;
+    height: 35px;
+   padding-bottom: 15px;
+}
+.instagram{
+    padding-left: 135px;
+    width: 25px;
+    height: 25px;
+    padding-top: 5px;
+}
+.thelast{
+    padding-top: 160px;
+    
+   
+}
+
+.parent{
+    background-color: #35366E ;
+    height: 700px;
+    width: 1450px;
+   
+    border-radius: 7px;
+}
+input{
+    border-radius: 5px;
+    width: 350px;
+    height: 30px;
+}
+.box-2{
+    height: 550px;
+    width: 420px;
+    position: absolute;
+    background-color: white;
+    right: 500px;
+    top: 40px;
+    border-radius: 10px;
+    
+}
+.labelinputone{
+    height: 90px;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+.labelinputtwo{
+    height:90px ;
+    width: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.labelinputthree{
+    width: 100px;
+padding-left: 20px;
+padding-top: 20px;
+}
+.theinputone{
+    height: 40px;
+}
+.theinputtwo{
+    border: solid 2px blue;
+    height: 40px;
+}
+.theinputthree{
+    height: 130px;
+}
+
+button{
+    margin-top: 80px;
+    margin-left: 190px;
+    width: 190px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #3C8CF7;
+    color: white;
+
+}
+
